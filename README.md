@@ -1,6 +1,6 @@
 # The Last Mile of Political Money
 
-An interactive data investigation that traces FEC disbursement data to show where political money actually lands at the street level.
+An interactive data investigation that traces FEC disbursement data to show where political money actually lands at the street level. I made this partly for fun, but also partly because I could not find a story that covered this data in this way. 
 
 Everyone knows where campaign money comes from. This project maps what it actually buys — which vendors, in which cities, for which services — using 4.8 million expenditure records across the 2020, 2022, and 2024 election cycles.
 
