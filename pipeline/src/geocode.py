@@ -65,13 +65,17 @@ def geocode_vendors(df: pd.DataFrame, max_geocode: int = 2000) -> pd.DataFrame:
     df["lat"] = df["zip5"].map(lambda z: centroids.get(z, [None, None])[0])
     df["lng"] = df["zip5"].map(lambda z: centroids.get(z, [None, None])[1])
 
-    # Add small random jitter to prevent exact overlaps at same zip centroid
+    # Add circular jitter per unique vendor to prevent grid artifacts
     import numpy as np
     np.random.seed(42)
     mask = df["lat"].notna()
-    jitter_scale = 0.005  # ~500m
-    df.loc[mask, "lat"] = df.loc[mask, "lat"] + np.random.uniform(-jitter_scale, jitter_scale, mask.sum())
-    df.loc[mask, "lng"] = df.loc[mask, "lng"] + np.random.uniform(-jitter_scale, jitter_scale, mask.sum())
+    n = mask.sum()
+    jitter_scale = 0.004  # ~400m radius
+    # Polar coordinates for circular distribution
+    angles = np.random.uniform(0, 2 * np.pi, n)
+    radii = jitter_scale * np.sqrt(np.random.uniform(0, 1, n))
+    df.loc[mask, "lat"] = df.loc[mask, "lat"] + radii * np.cos(angles)
+    df.loc[mask, "lng"] = df.loc[mask, "lng"] + radii * np.sin(angles)
 
     df = df.drop(columns=["zip5"])
 

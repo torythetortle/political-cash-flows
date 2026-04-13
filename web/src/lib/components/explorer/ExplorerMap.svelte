@@ -82,7 +82,7 @@
 			source: 'vendors',
 			filter: ['has', 'point_count'],
 			paint: {
-				'circle-color': COLORS.accent,
+				'circle-color': COLORS.cluster,
 				'circle-opacity': 0.7,
 				'circle-radius': ['step', ['get', 'point_count'], 14, 10, 20, 30, 28, 50, 36],
 				'circle-stroke-width': 1,
@@ -239,7 +239,7 @@
 	});
 </script>
 
-<div class="explorer-map">
+<div class="explorer-map" role="application" aria-label="Interactive map of political vendor locations. Use mouse or touch to pan and zoom.">
 	<div class="map-container" bind:this={mapContainer}></div>
 	{#if !mapLoaded}
 		<div class="map-loading" class:behind={map}>

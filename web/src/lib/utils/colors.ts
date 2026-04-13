@@ -9,7 +9,8 @@ export const COLORS = {
 	surface: '#FFFFFF',
 	text: '#1A1A1A',
 	muted: '#7A7A75',
-	accent: '#8B6914',
+	accent: '#5A6577',
+	cluster: '#6B7280',
 	border: '#D4D4CE',
 } as const;
 

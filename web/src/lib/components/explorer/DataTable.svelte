@@ -68,7 +68,7 @@
 	</div>
 
 	<div class="table-scroll">
-		<table>
+		<table aria-label="Political vendor spending data">
 			<thead>
 				<tr>
 					<th class="col-name" onclick={() => toggleSort('name')}>

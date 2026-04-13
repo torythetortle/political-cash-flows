@@ -66,7 +66,7 @@
 	}
 </script>
 
-<section class="explorer" id="explore">
+<section class="explorer" id="explore" aria-label="Interactive data explorer">
 	<div class="explorer-header">
 		<div class="header-row">
 			<div>

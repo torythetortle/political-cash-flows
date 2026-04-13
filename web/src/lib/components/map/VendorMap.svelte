@@ -50,7 +50,7 @@
 				source: 'vendors',
 				filter: ['has', 'point_count'],
 				paint: {
-					'circle-color': COLORS.accent,
+					'circle-color': COLORS.cluster,
 					'circle-opacity': 0.7,
 					'circle-radius': [
 						'step',

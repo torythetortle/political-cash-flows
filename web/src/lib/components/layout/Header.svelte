@@ -11,7 +11,7 @@
 		<span class="wordmark">
 			<span class="accent">$</span> Political Cash Flows
 		</span>
-		<nav>
+		<nav aria-label="Site navigation">
 			<a href="{base}/methodology">Methodology</a>
 		</nav>
 	</div>
