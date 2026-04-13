@@ -14,6 +14,7 @@
 	import CycleTimeline from '$lib/components/charts/CycleTimeline.svelte';
 	import DataCallout from '$lib/components/ui/DataCallout.svelte';
 	import Explorer from '$lib/components/explorer/Explorer.svelte';
+	import { base } from '$app/paths';
 
 	let { data } = $props();
 
@@ -262,7 +263,7 @@
 			<p>
 				<a href="#explore">Jump to explorer &darr;</a>
 				&nbsp;&middot;&nbsp;
-				<a href="/methodology">Read the methodology &rarr;</a>
+				<a href="{base}/methodology">Read the methodology &rarr;</a>
 			</p>
 		</StepText>
 	{/snippet}

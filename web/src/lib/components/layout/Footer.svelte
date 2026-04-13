@@ -1,10 +1,14 @@
+<script lang="ts">
+	import { base } from '$app/paths';
+</script>
+
 <footer>
 	<div class="footer-inner">
 		<span class="credit">A data investigation by <strong>Tory</strong></span>
 		<span class="sep">&middot;</span>
 		<span class="source">Data: FEC 2024 cycle</span>
 		<span class="sep">&middot;</span>
-		<a href="/methodology">Methodology</a>
+		<a href="{base}/methodology">Methodology</a>
 	</div>
 </footer>
 

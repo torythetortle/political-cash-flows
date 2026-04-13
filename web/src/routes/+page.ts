@@ -1,12 +1,13 @@
 import type { PageLoad } from './$types';
 import type { VendorFeatureCollection, StateSpendMap, TopVendor, VendorCycleData, VendorDetailsMap } from '$lib/data/types';
+import { base } from '$app/paths';
 
 export const load: PageLoad = async ({ fetch }) => {
 	const [vendorsRes, stateSpendRes, topVendorsRes, vendorCyclesRes] = await Promise.all([
-		fetch('/data/vendors_map.geojson'),
-		fetch('/data/state_spend.json'),
-		fetch('/data/top_vendors.json'),
-		fetch('/data/vendor_cycles.json'),
+		fetch(`${base}/data/vendors_map.geojson`),
+		fetch(`${base}/data/state_spend.json`),
+		fetch(`${base}/data/top_vendors.json`),
+		fetch(`${base}/data/vendor_cycles.json`),
 	]);
 
 	const vendors: VendorFeatureCollection = await vendorsRes.json();
@@ -16,7 +17,7 @@ export const load: PageLoad = async ({ fetch }) => {
 
 	let vendorDetails: VendorDetailsMap = {};
 	try {
-		const detailsRes = await fetch('/data/vendor_details.json');
+		const detailsRes = await fetch(`${base}/data/vendor_details.json`);
 		if (detailsRes.ok) {
 			vendorDetails = await detailsRes.json();
 		}

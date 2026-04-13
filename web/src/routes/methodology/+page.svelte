@@ -1,9 +1,10 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 </script>
 
 <article class="methodology">
 	<header class="meth-header">
-		<a href="/" class="back-link">&larr; Back to story</a>
+		<a href="{base}/" class="back-link">&larr; Back to story</a>
 		<h1>Methodology</h1>
 		<p class="subtitle">
 			How I collected, cleaned, and mapped FEC disbursement data

@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	let scrollY = $state(0);
 	let showBg = $derived(scrollY > 80);
 </script>
@@ -11,7 +12,7 @@
 			<span class="accent">$</span> Political Cash Flows
 		</span>
 		<nav>
-			<a href="/methodology">Methodology</a>
+			<a href="{base}/methodology">Methodology</a>
 		</nav>
 	</div>
 </header>
