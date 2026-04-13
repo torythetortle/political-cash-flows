@@ -1,0 +1,830 @@
+{
+  "00": {
+    "dem_spend": 364.02,
+    "rep_spend": 0.0,
+    "total_spend": 364.02,
+    "vendor_count": 1
+  },
+  "11": {
+    "dem_spend": 434.1,
+    "rep_spend": 0.0,
+    "total_spend": 434.1,
+    "vendor_count": 1
+  },
+  "62": {
+    "dem_spend": 600.0,
+    "rep_spend": 0.0,
+    "total_spend": 600.0,
+    "vendor_count": 1
+  },
+  "78": {
+    "dem_spend": 0.0,
+    "rep_spend": 173.2,
+    "total_spend": 173.2,
+    "vendor_count": 1
+  },
+  "80": {
+    "dem_spend": 247.82,
+    "rep_spend": 0.0,
+    "total_spend": 247.82,
+    "vendor_count": 1
+  },
+  "?L": {
+    "dem_spend": 318.93,
+    "rep_spend": 0.0,
+    "total_spend": 318.93,
+    "vendor_count": 1
+  },
+  "AA": {
+    "dem_spend": 3901.99,
+    "rep_spend": 746326.36,
+    "total_spend": 750228.35,
+    "vendor_count": 24
+  },
+  "AB": {
+    "dem_spend": 14985.900000000001,
+    "rep_spend": 5372.09,
+    "total_spend": 20357.99,
+    "vendor_count": 7
+  },
+  "AE": {
+    "dem_spend": 4235.68,
+    "rep_spend": 2845.89,
+    "total_spend": 7081.57,
+    "vendor_count": 4
+  },
+  "AK": {
+    "dem_spend": 2459246.56,
+    "rep_spend": 11695515.25,
+    "total_spend": 14154761.81,
+    "vendor_count": 1387
+  },
+  "AL": {
+    "dem_spend": 38218834.56,
+    "rep_spend": 33678498.55,
+    "total_spend": 71897333.11,
+    "vendor_count": 3645
+  },
+  "AM": {
+    "dem_spend": 447.51,
+    "rep_spend": 0.0,
+    "total_spend": 447.51,
+    "vendor_count": 1
+  },
+  "AP": {
+    "dem_spend": 0.0,
+    "rep_spend": 206.29999999999998,
+    "total_spend": 206.29999999999998,
+    "vendor_count": 2
+  },
+  "AR": {
+    "dem_spend": 22275631.87,
+    "rep_spend": 15747120.97,
+    "total_spend": 38022752.84,
+    "vendor_count": 1524
+  },
+  "AS": {
+    "dem_spend": 168314.93,
+    "rep_spend": 173468.8,
+    "total_spend": 341783.73,
+    "vendor_count": 112
+  },
+  "AT": {
+    "dem_spend": 2073.9900000000002,
+    "rep_spend": 0.0,
+    "total_spend": 2073.9900000000002,
+    "vendor_count": 3
+  },
+  "AU": {
+    "dem_spend": 5538.44,
+    "rep_spend": 7826.09,
+    "total_spend": 13364.529999999999,
+    "vendor_count": 8
+  },
+  "AV": {
+    "dem_spend": 3600.0,
+    "rep_spend": 0.0,
+    "total_spend": 3600.0,
+    "vendor_count": 1
+  },
+  "AZ": {
+    "dem_spend": 114920178.84,
+    "rep_spend": 80257358.34,
+    "total_spend": 195177537.18,
+    "vendor_count": 5767
+  },
+  "BC": {
+    "dem_spend": 13673.73,
+    "rep_spend": 125042.7,
+    "total_spend": 138716.43,
+    "vendor_count": 21
+  },
+  "BE": {
+    "dem_spend": 862.87,
+    "rep_spend": 0.0,
+    "total_spend": 862.87,
+    "vendor_count": 2
+  },
+  "BI": {
+    "dem_spend": 458.82,
+    "rep_spend": 0.0,
+    "total_spend": 458.82,
+    "vendor_count": 1
+  },
+  "BR": {
+    "dem_spend": 7096.91,
+    "rep_spend": 0.0,
+    "total_spend": 7096.91,
+    "vendor_count": 5
+  },
+  "BW": {
+    "dem_spend": 1549.66,
+    "rep_spend": 0.0,
+    "total_spend": 1549.66,
+    "vendor_count": 1
+  },
+  "CA": {
+    "dem_spend": 1397372826.88,
+    "rep_spend": 356402049.09,
+    "total_spend": 1753774875.97,
+    "vendor_count": 27263
+  },
+  "CE": {
+    "dem_spend": 1398.62,
+    "rep_spend": 0.0,
+    "total_spend": 1398.62,
+    "vendor_count": 2
+  },
+  "CH": {
+    "dem_spend": 10456.52,
+    "rep_spend": 0.0,
+    "total_spend": 10456.52,
+    "vendor_count": 13
+  },
+  "CO": {
+    "dem_spend": 163379841.68,
+    "rep_spend": 59723952.41,
+    "total_spend": 223103794.09,
+    "vendor_count": 5592
+  },
+  "CP": {
+    "dem_spend": 0.0,
+    "rep_spend": 477.21000000000004,
+    "total_spend": 477.21000000000004,
+    "vendor_count": 2
+  },
+  "CR": {
+    "dem_spend": 4022.0,
+    "rep_spend": 0.0,
+    "total_spend": 4022.0,
+    "vendor_count": 2
+  },
+  "CT": {
+    "dem_spend": 76339286.76,
+    "rep_spend": 20907650.93,
+    "total_spend": 97246937.69,
+    "vendor_count": 2514
+  },
+  "CY": {
+    "dem_spend": 15.0,
+    "rep_spend": 77.94,
+    "total_spend": 92.94,
+    "vendor_count": 2
+  },
+  "CZ": {
+    "dem_spend": 204.6,
+    "rep_spend": 0.0,
+    "total_spend": 204.6,
+    "vendor_count": 1
+  },
+  "D.": {
+    "dem_spend": 0.0,
+    "rep_spend": 117826.75,
+    "total_spend": 117826.75,
+    "vendor_count": 2
+  },
+  "DC": {
+    "dem_spend": 3837340832.51,
+    "rep_spend": 650610674.66,
+    "total_spend": 4487951507.17,
+    "vendor_count": 17441
+  },
+  "DE": {
+    "dem_spend": 56023030.75,
+    "rep_spend": 107787434.77,
+    "total_spend": 163810465.51999998,
+    "vendor_count": 1447
+  },
+  "EA": {
+    "dem_spend": 495.0,
+    "rep_spend": 0.0,
+    "total_spend": 495.0,
+    "vendor_count": 1
+  },
+  "EN": {
+    "dem_spend": 186.0,
+    "rep_spend": 63.92,
+    "total_spend": 249.92000000000002,
+    "vendor_count": 2
+  },
+  "ES": {
+    "dem_spend": 12195.85,
+    "rep_spend": 118.0,
+    "total_spend": 12313.85,
+    "vendor_count": 4
+  },
+  "EU": {
+    "dem_spend": 0.0,
+    "rep_spend": 474.57,
+    "total_spend": 474.57,
+    "vendor_count": 1
+  },
+  "FF": {
+    "dem_spend": 0.0,
+    "rep_spend": 585324.36,
+    "total_spend": 585324.36,
+    "vendor_count": 24
+  },
+  "FL": {
+    "dem_spend": 295678590.74,
+    "rep_spend": 335025914.43,
+    "total_spend": 630704505.1700001,
+    "vendor_count": 14708
+  },
+  "FM": {
+    "dem_spend": 15323.09,
+    "rep_spend": 111345.2,
+    "total_spend": 126668.29,
+    "vendor_count": 14
+  },
+  "FR": {
+    "dem_spend": 15773.59,
+    "rep_spend": 0.0,
+    "total_spend": 15773.59,
+    "vendor_count": 24
+  },
+  "GA": {
+    "dem_spend": 1020929111.18,
+    "rep_spend": 111738274.87,
+    "total_spend": 1132667386.05,
+    "vendor_count": 12519
+  },
+  "GB": {
+    "dem_spend": 24425.34,
+    "rep_spend": 97.65,
+    "total_spend": 24522.99,
+    "vendor_count": 16
+  },
+  "GE": {
+    "dem_spend": 212.3,
+    "rep_spend": 0.0,
+    "total_spend": 212.3,
+    "vendor_count": 1
+  },
+  "GR": {
+    "dem_spend": 12817.46,
+    "rep_spend": 0.0,
+    "total_spend": 12817.46,
+    "vendor_count": 2
+  },
+  "GU": {
+    "dem_spend": 1255989.89,
+    "rep_spend": 440917.97,
+    "total_spend": 1696907.8599999999,
+    "vendor_count": 311
+  },
+  "HA": {
+    "dem_spend": 165.71,
+    "rep_spend": 0.0,
+    "total_spend": 165.71,
+    "vendor_count": 1
+  },
+  "HI": {
+    "dem_spend": 5924917.7700000005,
+    "rep_spend": 494250.51,
+    "total_spend": 6419168.28,
+    "vendor_count": 748
+  },
+  "HK": {
+    "dem_spend": 190.18,
+    "rep_spend": 212.79,
+    "total_spend": 402.97,
+    "vendor_count": 2
+  },
+  "IA": {
+    "dem_spend": 144525713.99,
+    "rep_spend": 73943534.07,
+    "total_spend": 218469248.06,
+    "vendor_count": 5025
+  },
+  "ID": {
+    "dem_spend": 2771519.59,
+    "rep_spend": 9816269.42,
+    "total_spend": 12587789.01,
+    "vendor_count": 1230
+  },
+  "IE": {
+    "dem_spend": 102.19,
+    "rep_spend": 0.0,
+    "total_spend": 102.19,
+    "vendor_count": 1
+  },
+  "IL": {
+    "dem_spend": 665815734.0,
+    "rep_spend": 95029184.82,
+    "total_spend": 760844918.8199999,
+    "vendor_count": 9741
+  },
+  "IN": {
+    "dem_spend": 31618393.44,
+    "rep_spend": 58234522.1,
+    "total_spend": 89852915.54,
+    "vendor_count": 4484
+  },
+  "IR": {
+    "dem_spend": 326.58,
+    "rep_spend": 0.0,
+    "total_spend": 326.58,
+    "vendor_count": 2
+  },
+  "IS": {
+    "dem_spend": 640.5,
+    "rep_spend": 0.0,
+    "total_spend": 640.5,
+    "vendor_count": 1
+  },
+  "IT": {
+    "dem_spend": 3323.5099999999998,
+    "rep_spend": 0.0,
+    "total_spend": 3323.5099999999998,
+    "vendor_count": 6
+  },
+  "JP": {
+    "dem_spend": 688.9,
+    "rep_spend": 0.0,
+    "total_spend": 688.9,
+    "vendor_count": 2
+  },
+  "KS": {
+    "dem_spend": 6171930.01,
+    "rep_spend": 121067915.01,
+    "total_spend": 127239845.02000001,
+    "vendor_count": 1825
+  },
+  "KY": {
+    "dem_spend": 24177424.44,
+    "rep_spend": 41677644.67,
+    "total_spend": 65855069.11,
+    "vendor_count": 2718
+  },
+  "LA": {
+    "dem_spend": 15545242.9,
+    "rep_spend": 66896704.63,
+    "total_spend": 82441947.53,
+    "vendor_count": 3124
+  },
+  "LO": {
+    "dem_spend": 7226.41,
+    "rep_spend": 0.0,
+    "total_spend": 7226.41,
+    "vendor_count": 5
+  },
+  "MA": {
+    "dem_spend": 476839206.61,
+    "rep_spend": 68021607.32,
+    "total_spend": 544860813.9300001,
+    "vendor_count": 6965
+  },
+  "MD": {
+    "dem_spend": 272496661.75,
+    "rep_spend": 345596830.5,
+    "total_spend": 618093492.25,
+    "vendor_count": 7107
+  },
+  "ME": {
+    "dem_spend": 11811605.39,
+    "rep_spend": 6166489.82,
+    "total_spend": 17978095.21,
+    "vendor_count": 1533
+  },
+  "MH": {
+    "dem_spend": 0.0,
+    "rep_spend": 3025.84,
+    "total_spend": 3025.84,
+    "vendor_count": 2
+  },
+  "MI": {
+    "dem_spend": 58963455.17,
+    "rep_spend": 77364943.04,
+    "total_spend": 136328398.21,
+    "vendor_count": 9769
+  },
+  "MN": {
+    "dem_spend": 89388506.04,
+    "rep_spend": 87816942.61,
+    "total_spend": 177205448.65,
+    "vendor_count": 5125
+  },
+  "MO": {
+    "dem_spend": 46004959.3,
+    "rep_spend": 212844542.72,
+    "total_spend": 258849502.01999998,
+    "vendor_count": 4048
+  },
+  "MP": {
+    "dem_spend": 92483.06,
+    "rep_spend": 90890.49,
+    "total_spend": 183373.55,
+    "vendor_count": 112
+  },
+  "MS": {
+    "dem_spend": 7588155.51,
+    "rep_spend": 17106981.7,
+    "total_spend": 24695137.21,
+    "vendor_count": 1932
+  },
+  "MT": {
+    "dem_spend": 15718371.97,
+    "rep_spend": 13708665.63,
+    "total_spend": 29427037.6,
+    "vendor_count": 2001
+  },
+  "MU": {
+    "dem_spend": 217.34,
+    "rep_spend": 0.0,
+    "total_spend": 217.34,
+    "vendor_count": 1
+  },
+  "MX": {
+    "dem_spend": 5508.32,
+    "rep_spend": 0.0,
+    "total_spend": 5508.32,
+    "vendor_count": 4
+  },
+  "N/": {
+    "dem_spend": 1064.38,
+    "rep_spend": 0.0,
+    "total_spend": 1064.38,
+    "vendor_count": 1
+  },
+  "N1": {
+    "dem_spend": 1565.0,
+    "rep_spend": 0.0,
+    "total_spend": 1565.0,
+    "vendor_count": 1
+  },
+  "NB": {
+    "dem_spend": 0.0,
+    "rep_spend": 1500.0,
+    "total_spend": 1500.0,
+    "vendor_count": 1
+  },
+  "NC": {
+    "dem_spend": 149651718.33,
+    "rep_spend": 101533366.31,
+    "total_spend": 251185084.64000002,
+    "vendor_count": 7689
+  },
+  "ND": {
+    "dem_spend": 14114629.23,
+    "rep_spend": 8478900.05,
+    "total_spend": 22593529.28,
+    "vendor_count": 658
+  },
+  "NE": {
+    "dem_spend": 67032705.7,
+    "rep_spend": 34539086.17,
+    "total_spend": 101571791.87,
+    "vendor_count": 2025
+  },
+  "NH": {
+    "dem_spend": 23488550.28,
+    "rep_spend": 33751840.44,
+    "total_spend": 57240390.72,
+    "vendor_count": 3134
+  },
+  "NJ": {
+    "dem_spend": 198166255.06,
+    "rep_spend": 152369894.72,
+    "total_spend": 350536149.78,
+    "vendor_count": 5787
+  },
+  "NL": {
+    "dem_spend": 1410.23,
+    "rep_spend": 1265.31,
+    "total_spend": 2675.54,
+    "vendor_count": 6
+  },
+  "NM": {
+    "dem_spend": 12772845.69,
+    "rep_spend": 21330945.16,
+    "total_spend": 34103790.85,
+    "vendor_count": 1945
+  },
+  "NO": {
+    "dem_spend": 2794.01,
+    "rep_spend": 8000.0,
+    "total_spend": 10794.01,
+    "vendor_count": 7
+  },
+  "NS": {
+    "dem_spend": 24147.59,
+    "rep_spend": 0.0,
+    "total_spend": 24147.59,
+    "vendor_count": 5
+  },
+  "NV": {
+    "dem_spend": 40369714.45,
+    "rep_spend": 46359618.98,
+    "total_spend": 86729333.43,
+    "vendor_count": 5167
+  },
+  "NY": {
+    "dem_spend": 1422188797.37,
+    "rep_spend": 189165448.11,
+    "total_spend": 1611354245.48,
+    "vendor_count": 19192
+  },
+  "OH": {
+    "dem_spend": 59376413.73,
+    "rep_spend": 384277454.79,
+    "total_spend": 443653868.52000004,
+    "vendor_count": 6911
+  },
+  "OK": {
+    "dem_spend": 9356476.18,
+    "rep_spend": 36193608.22,
+    "total_spend": 45550084.4,
+    "vendor_count": 2450
+  },
+  "ON": {
+    "dem_spend": 133119.32,
+    "rep_spend": 2647.66,
+    "total_spend": 135766.98,
+    "vendor_count": 33
+  },
+  "OR": {
+    "dem_spend": 27599625.31,
+    "rep_spend": 16603267.52,
+    "total_spend": 44202892.83,
+    "vendor_count": 2721
+  },
+  "PA": {
+    "dem_spend": 601021752.03,
+    "rep_spend": 211994672.42,
+    "total_spend": 813016424.4499999,
+    "vendor_count": 11514
+  },
+  "PE": {
+    "dem_spend": 13510.279999999999,
+    "rep_spend": 47850.0,
+    "total_spend": 61360.28,
+    "vendor_count": 12
+  },
+  "PR": {
+    "dem_spend": 2899776.14,
+    "rep_spend": 2151918.2,
+    "total_spend": 5051694.34,
+    "vendor_count": 481
+  },
+  "QC": {
+    "dem_spend": 4734.860000000001,
+    "rep_spend": 1737.53,
+    "total_spend": 6472.39,
+    "vendor_count": 7
+  },
+  "QL": {
+    "dem_spend": 1200.0,
+    "rep_spend": 0.0,
+    "total_spend": 1200.0,
+    "vendor_count": 1
+  },
+  "QU": {
+    "dem_spend": 147.0,
+    "rep_spend": 0.0,
+    "total_spend": 147.0,
+    "vendor_count": 1
+  },
+  "RA": {
+    "dem_spend": 184.87,
+    "rep_spend": 0.0,
+    "total_spend": 184.87,
+    "vendor_count": 1
+  },
+  "RH": {
+    "dem_spend": 0.0,
+    "rep_spend": 63.72,
+    "total_spend": 63.72,
+    "vendor_count": 1
+  },
+  "RI": {
+    "dem_spend": 37289223.4,
+    "rep_spend": 1726226.03,
+    "total_spend": 39015449.43,
+    "vendor_count": 1257
+  },
+  "SA": {
+    "dem_spend": 28.08,
+    "rep_spend": 0.0,
+    "total_spend": 28.08,
+    "vendor_count": 1
+  },
+  "SC": {
+    "dem_spend": 27783956.34,
+    "rep_spend": 243764239.15,
+    "total_spend": 271548195.49,
+    "vendor_count": 4559
+  },
+  "SD": {
+    "dem_spend": 2405569.0,
+    "rep_spend": 6708124.19,
+    "total_spend": 9113693.190000001,
+    "vendor_count": 1010
+  },
+  "SE": {
+    "dem_spend": 573.38,
+    "rep_spend": 0.0,
+    "total_spend": 573.38,
+    "vendor_count": 2
+  },
+  "SG": {
+    "dem_spend": 3.98,
+    "rep_spend": 0.0,
+    "total_spend": 3.98,
+    "vendor_count": 1
+  },
+  "SH": {
+    "dem_spend": 10824.0,
+    "rep_spend": 0.0,
+    "total_spend": 10824.0,
+    "vendor_count": 1
+  },
+  "SI": {
+    "dem_spend": 820.95,
+    "rep_spend": 0.0,
+    "total_spend": 820.95,
+    "vendor_count": 2
+  },
+  "SJ": {
+    "dem_spend": 193.73,
+    "rep_spend": 0.0,
+    "total_spend": 193.73,
+    "vendor_count": 1
+  },
+  "SO": {
+    "dem_spend": 100.0,
+    "rep_spend": 0.0,
+    "total_spend": 100.0,
+    "vendor_count": 1
+  },
+  "SP": {
+    "dem_spend": 735.63,
+    "rep_spend": 0.0,
+    "total_spend": 735.63,
+    "vendor_count": 5
+  },
+  "ST": {
+    "dem_spend": 644.5,
+    "rep_spend": 0.0,
+    "total_spend": 644.5,
+    "vendor_count": 3
+  },
+  "SU": {
+    "dem_spend": 42166.63,
+    "rep_spend": 0.0,
+    "total_spend": 42166.63,
+    "vendor_count": 2
+  },
+  "SW": {
+    "dem_spend": 18210.39,
+    "rep_spend": 0.0,
+    "total_spend": 18210.39,
+    "vendor_count": 7
+  },
+  "SY": {
+    "dem_spend": 591.89,
+    "rep_spend": 0.0,
+    "total_spend": 591.89,
+    "vendor_count": 2
+  },
+  "TE": {
+    "dem_spend": 203.52,
+    "rep_spend": 0.0,
+    "total_spend": 203.52,
+    "vendor_count": 1
+  },
+  "TH": {
+    "dem_spend": 0.0,
+    "rep_spend": 48000.0,
+    "total_spend": 48000.0,
+    "vendor_count": 1
+  },
+  "TN": {
+    "dem_spend": 27440638.57,
+    "rep_spend": 65809442.32,
+    "total_spend": 93250080.89,
+    "vendor_count": 4168
+  },
+  "TO": {
+    "dem_spend": 59.95,
+    "rep_spend": 0.0,
+    "total_spend": 59.95,
+    "vendor_count": 1
+  },
+  "TX": {
+    "dem_spend": 292275818.15,
+    "rep_spend": 438951899.43,
+    "total_spend": 731227717.5799999,
+    "vendor_count": 19032
+  },
+  "UA": {
+    "dem_spend": 2500.0,
+    "rep_spend": 0.0,
+    "total_spend": 2500.0,
+    "vendor_count": 1
+  },
+  "UK": {
+    "dem_spend": 468094.20999999996,
+    "rep_spend": 11865.62,
+    "total_spend": 479959.82999999996,
+    "vendor_count": 67
+  },
+  "UN": {
+    "dem_spend": 5514.860000000001,
+    "rep_spend": 0.0,
+    "total_spend": 5514.860000000001,
+    "vendor_count": 12
+  },
+  "UP": {
+    "dem_spend": 3088.8,
+    "rep_spend": 0.0,
+    "total_spend": 3088.8,
+    "vendor_count": 1
+  },
+  "UT": {
+    "dem_spend": 17345392.93,
+    "rep_spend": 76403423.15,
+    "total_spend": 93748816.08000001,
+    "vendor_count": 2572
+  },
+  "VA": {
+    "dem_spend": 948343658.01,
+    "rep_spend": 3177538892.53,
+    "total_spend": 4125882550.54,
+    "vendor_count": 11607
+  },
+  "VI": {
+    "dem_spend": 1041048.35,
+    "rep_spend": 12243442.45,
+    "total_spend": 13284490.799999999,
+    "vendor_count": 328
+  },
+  "VT": {
+    "dem_spend": 21672944.75,
+    "rep_spend": 1502303.61,
+    "total_spend": 23175248.36,
+    "vendor_count": 856
+  },
+  "WA": {
+    "dem_spend": 152011016.56,
+    "rep_spend": 52297137.51,
+    "total_spend": 204308154.07,
+    "vendor_count": 4685
+  },
+  "WE": {
+    "dem_spend": 3680.22,
+    "rep_spend": 0.0,
+    "total_spend": 3680.22,
+    "vendor_count": 2
+  },
+  "WI": {
+    "dem_spend": 87830361.32000001,
+    "rep_spend": 52032778.28,
+    "total_spend": 139863139.60000002,
+    "vendor_count": 4722
+  },
+  "WV": {
+    "dem_spend": 3960050.4899999998,
+    "rep_spend": 6425089.63,
+    "total_spend": 10385140.12,
+    "vendor_count": 1260
+  },
+  "WY": {
+    "dem_spend": 1875563.98,
+    "rep_spend": 22626829.63,
+    "total_spend": 24502393.61,
+    "vendor_count": 1039
+  },
+  "XX": {
+    "dem_spend": 848.0,
+    "rep_spend": 6440.3099999999995,
+    "total_spend": 7288.3099999999995,
+    "vendor_count": 14
+  },
+  "ZZ": {
+    "dem_spend": 1713891.16,
+    "rep_spend": 1702447.8,
+    "total_spend": 3416338.96,
+    "vendor_count": 817
+  }
+}

@@ -1,0 +1,6 @@
+pandas>=2.0
+pyarrow>=14.0
+rapidfuzz>=3.0
+httpx[http2]>=0.28
+tqdm>=4.0
+click>=8.0

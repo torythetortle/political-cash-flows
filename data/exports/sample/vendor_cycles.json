@@ -1,0 +1,392 @@
+[
+  {
+    "vendor_id": "V0307",
+    "canonical_name": "Deep Root Analytics - Raleigh",
+    "dominant_party": "REP",
+    "category": "DATA_ANALYTICS",
+    "cycles": {
+      "2016": 19744335,
+      "2018": 21523048,
+      "2020": 32380606,
+      "2022": 36594584,
+      "2024": 44649377
+    }
+  },
+  {
+    "vendor_id": "V0118",
+    "canonical_name": "Bask Digital Media",
+    "dominant_party": "REP",
+    "category": "DIGITAL",
+    "cycles": {
+      "2016": 15229085,
+      "2018": 16812758,
+      "2020": 22667408,
+      "2022": 28606201,
+      "2024": 33957059
+    }
+  },
+  {
+    "vendor_id": "V0162",
+    "canonical_name": "Allegra Network",
+    "dominant_party": "REP",
+    "category": "PRINTING",
+    "cycles": {
+      "2016": 11624820,
+      "2018": 15879779,
+      "2020": 23690132,
+      "2022": 26960991,
+      "2024": 29994135
+    }
+  },
+  {
+    "vendor_id": "V0253",
+    "canonical_name": "Patriot Signaling LLC",
+    "dominant_party": "DEM",
+    "category": "DIRECT_MAIL",
+    "cycles": {
+      "2016": 16094465,
+      "2018": 16644417,
+      "2020": 19769222,
+      "2022": 24587583,
+      "2024": 27614376
+    }
+  },
+  {
+    "vendor_id": "V0143",
+    "canonical_name": "Jones Day - Las Vegas",
+    "dominant_party": "DEM",
+    "category": "LEGAL",
+    "cycles": {
+      "2016": 12032905,
+      "2018": 15786943,
+      "2020": 19357071,
+      "2022": 23699066,
+      "2024": 26816422
+    }
+  },
+  {
+    "vendor_id": "V0203",
+    "canonical_name": "Merrill Press",
+    "dominant_party": "DEM",
+    "category": "PRINTING",
+    "cycles": {
+      "2016": 12011514,
+      "2018": 14375583,
+      "2020": 16034162,
+      "2022": 20108868,
+      "2024": 23237435
+    }
+  },
+  {
+    "vendor_id": "V0001",
+    "canonical_name": "WISN-TV Milwaukee",
+    "dominant_party": "REP",
+    "category": "TV_STATIONS",
+    "cycles": {
+      "2016": 11064537,
+      "2018": 12263257,
+      "2020": 14312919,
+      "2022": 20728716,
+      "2024": 23977233
+    }
+  },
+  {
+    "vendor_id": "V0265",
+    "canonical_name": "WXYZ-TV Detroit - Los Angeles",
+    "dominant_party": "DEM",
+    "category": "TV_STATIONS",
+    "cycles": {
+      "2016": 9839518,
+      "2018": 11290295,
+      "2020": 15773842,
+      "2022": 19103839,
+      "2024": 21802855
+    }
+  },
+  {
+    "vendor_id": "V0097",
+    "canonical_name": "Perkins Coie LLP",
+    "dominant_party": "DEM",
+    "category": "LEGAL",
+    "cycles": {
+      "2016": 11288173,
+      "2018": 14166176,
+      "2020": 16808597,
+      "2022": 16611691,
+      "2024": 22217803
+    }
+  },
+  {
+    "vendor_id": "V0282",
+    "canonical_name": "Persuasion Partners",
+    "dominant_party": "DEM",
+    "category": "DIRECT_MAIL",
+    "cycles": {
+      "2016": 7346778,
+      "2018": 8911548,
+      "2020": 11965185,
+      "2022": 14338758,
+      "2024": 17032542
+    }
+  },
+  {
+    "vendor_id": "V0294",
+    "canonical_name": "The Tarrance Group",
+    "dominant_party": "DEM",
+    "category": "CONSULTING",
+    "cycles": {
+      "2016": 7438633,
+      "2018": 7428758,
+      "2020": 9579079,
+      "2022": 12115539,
+      "2024": 13532295
+    }
+  },
+  {
+    "vendor_id": "V0273",
+    "canonical_name": "Event Strategies Inc - Houston",
+    "dominant_party": "DEM",
+    "category": "EVENT_PRODUCTION",
+    "cycles": {
+      "2016": 5465507,
+      "2018": 9388161,
+      "2020": 10627755,
+      "2022": 12940677,
+      "2024": 14591835
+    }
+  },
+  {
+    "vendor_id": "V0308",
+    "canonical_name": "Merrill Press",
+    "dominant_party": "DEM",
+    "category": "PRINTING",
+    "cycles": {
+      "2016": 5412221,
+      "2018": 7734419,
+      "2020": 8027091,
+      "2022": 10725183,
+      "2024": 12583791
+    }
+  },
+  {
+    "vendor_id": "V0239",
+    "canonical_name": "Hargrove Engineers",
+    "dominant_party": "DEM",
+    "category": "EVENT_PRODUCTION",
+    "cycles": {
+      "2016": 4362182,
+      "2018": 5860838,
+      "2020": 7683113,
+      "2022": 8529499,
+      "2024": 11124555
+    }
+  },
+  {
+    "vendor_id": "V0173",
+    "canonical_name": "Patriot Signaling LLC",
+    "dominant_party": "REP",
+    "category": "DIRECT_MAIL",
+    "cycles": {
+      "2016": 4296433,
+      "2018": 5320137,
+      "2020": 7003150,
+      "2022": 8612764,
+      "2024": 9623235
+    }
+  },
+  {
+    "vendor_id": "V0119",
+    "canonical_name": "PSAV Presentation Services - Detroit",
+    "dominant_party": "DEM",
+    "category": "EVENT_PRODUCTION",
+    "cycles": {
+      "2016": 3438236,
+      "2018": 5738965,
+      "2020": 7039103,
+      "2022": 8481068,
+      "2024": 8416896
+    }
+  },
+  {
+    "vendor_id": "V0163",
+    "canonical_name": "Catalist LLC - Milwaukee",
+    "dominant_party": "DEM",
+    "category": "DATA_ANALYTICS",
+    "cycles": {
+      "2016": 3337592,
+      "2018": 5094642,
+      "2020": 6324735,
+      "2022": 7773321,
+      "2024": 8493978
+    }
+  },
+  {
+    "vendor_id": "V0254",
+    "canonical_name": "Perkins Coie LLP",
+    "dominant_party": "DEM",
+    "category": "LEGAL",
+    "cycles": {
+      "2016": 4276351,
+      "2018": 5444547,
+      "2020": 5645419,
+      "2022": 7733075,
+      "2024": 8892903
+    }
+  },
+  {
+    "vendor_id": "V0048",
+    "canonical_name": "Persuasion Partners - Atlanta",
+    "dominant_party": "DEM",
+    "category": "DIRECT_MAIL",
+    "cycles": {
+      "2016": 3172026,
+      "2018": 5428360,
+      "2020": 5897442,
+      "2022": 7378004,
+      "2024": 8386239
+    }
+  },
+  {
+    "vendor_id": "V0144",
+    "canonical_name": "Middle Seat Consulting",
+    "dominant_party": "DEM",
+    "category": "DIGITAL",
+    "cycles": {
+      "2016": 2932579,
+      "2018": 3893387,
+      "2020": 5793700,
+      "2022": 6115302,
+      "2024": 7966161
+    }
+  },
+  {
+    "vendor_id": "V0204",
+    "canonical_name": "Jones Day - Washington DC",
+    "dominant_party": "DEM",
+    "category": "LEGAL",
+    "cycles": {
+      "2016": 3356790,
+      "2018": 3366390,
+      "2020": 5216821,
+      "2022": 5477077,
+      "2024": 6133423
+    }
+  },
+  {
+    "vendor_id": "V0002",
+    "canonical_name": "Movement Labs - Philadelphia",
+    "dominant_party": "DEM",
+    "category": "FIELD_OPERATIONS",
+    "cycles": {
+      "2016": 3136380,
+      "2018": 3846755,
+      "2020": 4136325,
+      "2022": 5440829,
+      "2024": 6198150
+    }
+  },
+  {
+    "vendor_id": "V0266",
+    "canonical_name": "Rising Tide Interactive",
+    "dominant_party": "DEM",
+    "category": "MEDIA_BUYING",
+    "cycles": {
+      "2016": 2831007,
+      "2018": 3756638,
+      "2020": 4380465,
+      "2022": 5102403,
+      "2024": 5779447
+    }
+  },
+  {
+    "vendor_id": "V0098",
+    "canonical_name": "Lake Research Partners",
+    "dominant_party": "DEM",
+    "category": "CONSULTING",
+    "cycles": {
+      "2016": 2802095,
+      "2018": 3780647,
+      "2020": 4058935,
+      "2022": 5180705,
+      "2024": 5491203
+    }
+  },
+  {
+    "vendor_id": "V0309",
+    "canonical_name": "Bully Pulpit Interactive",
+    "dominant_party": "DEM",
+    "category": "MEDIA_BUYING",
+    "cycles": {
+      "2016": 3091911,
+      "2018": 3234061,
+      "2020": 4289433,
+      "2022": 5003534,
+      "2024": 5561998
+    }
+  },
+  {
+    "vendor_id": "V0283",
+    "canonical_name": "Wiley Rein LLP - Pittsburgh",
+    "dominant_party": "REP",
+    "category": "LEGAL",
+    "cycles": {
+      "2016": 2407815,
+      "2018": 2963385,
+      "2020": 3329244,
+      "2022": 4241948,
+      "2024": 4715696
+    }
+  },
+  {
+    "vendor_id": "V0120",
+    "canonical_name": "Mail Haus LLC - Detroit",
+    "dominant_party": "REP",
+    "category": "DIRECT_MAIL",
+    "cycles": {
+      "2016": 1940524,
+      "2018": 2463826,
+      "2020": 3141145,
+      "2022": 3986561,
+      "2024": 4227963
+    }
+  },
+  {
+    "vendor_id": "V0164",
+    "canonical_name": "Pacific Campaign House",
+    "dominant_party": "REP",
+    "category": "DIRECT_MAIL",
+    "cycles": {
+      "2016": 1602257,
+      "2018": 2407995,
+      "2020": 3085971,
+      "2022": 3972659,
+      "2024": 3993789
+    }
+  },
+  {
+    "vendor_id": "V0295",
+    "canonical_name": "Public Opinion Strategies - Tucson",
+    "dominant_party": "DEM",
+    "category": "CONSULTING",
+    "cycles": {
+      "2016": 2162380,
+      "2018": 2877234,
+      "2020": 3434470,
+      "2022": 3330256,
+      "2024": 4214047
+    }
+  },
+  {
+    "vendor_id": "V0274",
+    "canonical_name": "Perkins Coie LLP - Houston",
+    "dominant_party": "DEM",
+    "category": "LEGAL",
+    "cycles": {
+      "2016": 1738539,
+      "2018": 2738361,
+      "2020": 2915432,
+      "2022": 3658737,
+      "2024": 3814802
+    }
+  }
+]

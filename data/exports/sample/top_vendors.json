@@ -1,0 +1,852 @@
+[
+  {
+    "vendor_id": "V0307",
+    "canonical_name": "Deep Root Analytics - Raleigh",
+    "total_spend": 97531472,
+    "dem_pct": 11.8,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DATA_ANALYTICS",
+    "city": "Raleigh",
+    "state": "NC"
+  },
+  {
+    "vendor_id": "V0118",
+    "canonical_name": "Bask Digital Media",
+    "total_spend": 72434463,
+    "dem_pct": 22.1,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIGITAL",
+    "city": "Detroit",
+    "state": "MI"
+  },
+  {
+    "vendor_id": "V0162",
+    "canonical_name": "Allegra Network",
+    "total_spend": 69636789,
+    "dem_pct": 15.1,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "PRINTING",
+    "city": "Milwaukee",
+    "state": "WI"
+  },
+  {
+    "vendor_id": "V0253",
+    "canonical_name": "Patriot Signaling LLC",
+    "total_spend": 67891980,
+    "dem_pct": 100.0,
+    "rep_pct": 21.8,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIRECT_MAIL",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  {
+    "vendor_id": "V0143",
+    "canonical_name": "Jones Day - Las Vegas",
+    "total_spend": 58906368,
+    "dem_pct": 100.0,
+    "rep_pct": 11.5,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "LEGAL",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  {
+    "vendor_id": "V0203",
+    "canonical_name": "Merrill Press",
+    "total_spend": 52721074,
+    "dem_pct": 100.0,
+    "rep_pct": 13.6,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "PRINTING",
+    "city": "Washington DC",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V0001",
+    "canonical_name": "WISN-TV Milwaukee",
+    "total_spend": 50332821,
+    "dem_pct": 12.9,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "TV_STATIONS",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  {
+    "vendor_id": "V0265",
+    "canonical_name": "WXYZ-TV Detroit - Los Angeles",
+    "total_spend": 49298402,
+    "dem_pct": 100.0,
+    "rep_pct": 18.7,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "TV_STATIONS",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "vendor_id": "V0097",
+    "canonical_name": "Perkins Coie LLP",
+    "total_spend": 47386344,
+    "dem_pct": 100.0,
+    "rep_pct": 23.3,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "LEGAL",
+    "city": "Phoenix",
+    "state": "AZ"
+  },
+  {
+    "vendor_id": "V0282",
+    "canonical_name": "Persuasion Partners",
+    "total_spend": 35755892,
+    "dem_pct": 100.0,
+    "rep_pct": 13.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIRECT_MAIL",
+    "city": "Pittsburgh",
+    "state": "PA"
+  },
+  {
+    "vendor_id": "V0294",
+    "canonical_name": "The Tarrance Group",
+    "total_spend": 33563393,
+    "dem_pct": 100.0,
+    "rep_pct": 17.7,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "CONSULTING",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "vendor_id": "V0273",
+    "canonical_name": "Event Strategies Inc - Houston",
+    "total_spend": 33156939,
+    "dem_pct": 100.0,
+    "rep_pct": 16.1,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "EVENT_PRODUCTION",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "vendor_id": "V0308",
+    "canonical_name": "Merrill Press",
+    "total_spend": 28008560,
+    "dem_pct": 100.0,
+    "rep_pct": 5.9,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "PRINTING",
+    "city": "Raleigh",
+    "state": "NC"
+  },
+  {
+    "vendor_id": "V0239",
+    "canonical_name": "Hargrove Engineers",
+    "total_spend": 23942064,
+    "dem_pct": 100.0,
+    "rep_pct": 8.6,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "EVENT_PRODUCTION",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "vendor_id": "V0173",
+    "canonical_name": "Patriot Signaling LLC",
+    "total_spend": 21173960,
+    "dem_pct": 7.7,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIRECT_MAIL",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "vendor_id": "V0119",
+    "canonical_name": "PSAV Presentation Services - Detroit",
+    "total_spend": 20801337,
+    "dem_pct": 100.0,
+    "rep_pct": 24.4,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "EVENT_PRODUCTION",
+    "city": "Detroit",
+    "state": "MI"
+  },
+  {
+    "vendor_id": "V0163",
+    "canonical_name": "Catalist LLC - Milwaukee",
+    "total_spend": 19997916,
+    "dem_pct": 100.0,
+    "rep_pct": 17.8,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DATA_ANALYTICS",
+    "city": "Milwaukee",
+    "state": "WI"
+  },
+  {
+    "vendor_id": "V0254",
+    "canonical_name": "Perkins Coie LLP",
+    "total_spend": 19496851,
+    "dem_pct": 100.0,
+    "rep_pct": 7.9,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "LEGAL",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  {
+    "vendor_id": "V0048",
+    "canonical_name": "Persuasion Partners - Atlanta",
+    "total_spend": 18324119,
+    "dem_pct": 100.0,
+    "rep_pct": 15.6,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIRECT_MAIL",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "vendor_id": "V0144",
+    "canonical_name": "Middle Seat Consulting",
+    "total_spend": 16916412,
+    "dem_pct": 100.0,
+    "rep_pct": 13.7,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIGITAL",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  {
+    "vendor_id": "V0204",
+    "canonical_name": "Jones Day - Washington DC",
+    "total_spend": 15140152,
+    "dem_pct": 100.0,
+    "rep_pct": 16.2,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "LEGAL",
+    "city": "Washington DC",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V0002",
+    "canonical_name": "Movement Labs - Philadelphia",
+    "total_spend": 14454307,
+    "dem_pct": 100.0,
+    "rep_pct": 10.3,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "FIELD_OPERATIONS",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  {
+    "vendor_id": "V0266",
+    "canonical_name": "Rising Tide Interactive",
+    "total_spend": 14157248,
+    "dem_pct": 100.0,
+    "rep_pct": 24.2,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "MEDIA_BUYING",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "vendor_id": "V0098",
+    "canonical_name": "Lake Research Partners",
+    "total_spend": 13608153,
+    "dem_pct": 100.0,
+    "rep_pct": 24.3,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "CONSULTING",
+    "city": "Phoenix",
+    "state": "AZ"
+  },
+  {
+    "vendor_id": "V0309",
+    "canonical_name": "Bully Pulpit Interactive",
+    "total_spend": 13499774,
+    "dem_pct": 100.0,
+    "rep_pct": 14.1,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "MEDIA_BUYING",
+    "city": "Raleigh",
+    "state": "NC"
+  },
+  {
+    "vendor_id": "V0283",
+    "canonical_name": "Wiley Rein LLP - Pittsburgh",
+    "total_spend": 10268183,
+    "dem_pct": 19.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "LEGAL",
+    "city": "Pittsburgh",
+    "state": "PA"
+  },
+  {
+    "vendor_id": "V0120",
+    "canonical_name": "Mail Haus LLC - Detroit",
+    "total_spend": 10025983,
+    "dem_pct": 24.4,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIRECT_MAIL",
+    "city": "Detroit",
+    "state": "MI"
+  },
+  {
+    "vendor_id": "V0164",
+    "canonical_name": "Pacific Campaign House",
+    "total_spend": 9638744,
+    "dem_pct": 10.7,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIRECT_MAIL",
+    "city": "Milwaukee",
+    "state": "WI"
+  },
+  {
+    "vendor_id": "V0295",
+    "canonical_name": "Public Opinion Strategies - Tucson",
+    "total_spend": 9638553,
+    "dem_pct": 100.0,
+    "rep_pct": 8.7,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "CONSULTING",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "vendor_id": "V0274",
+    "canonical_name": "Perkins Coie LLP - Houston",
+    "total_spend": 9521830,
+    "dem_pct": 100.0,
+    "rep_pct": 6.7,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "LEGAL",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "vendor_id": "V0255",
+    "canonical_name": "WISN-TV Milwaukee",
+    "total_spend": 9397237,
+    "dem_pct": 100.0,
+    "rep_pct": 8.9,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "TV_STATIONS",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  {
+    "vendor_id": "V0145",
+    "canonical_name": "Ground Game Strategies - Las Vegas",
+    "total_spend": 8153498,
+    "dem_pct": 6.5,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "FIELD_OPERATIONS",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  {
+    "vendor_id": "V0310",
+    "canonical_name": "Echelon Insights",
+    "total_spend": 8043346,
+    "dem_pct": 22.5,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "CONSULTING",
+    "city": "Raleigh",
+    "state": "NC"
+  },
+  {
+    "vendor_id": "V0205",
+    "canonical_name": "Wiley Rein LLP",
+    "total_spend": 7297363,
+    "dem_pct": 21.5,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "LEGAL",
+    "city": "Washington DC",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V0003",
+    "canonical_name": "Jones Day - Philadelphia",
+    "total_spend": 6966794,
+    "dem_pct": 15.2,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "LEGAL",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  {
+    "vendor_id": "V0240",
+    "canonical_name": "Civis Analytics",
+    "total_spend": 6875552,
+    "dem_pct": 14.3,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DATA_ANALYTICS",
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "vendor_id": "V0267",
+    "canonical_name": "Perkins Coie LLP - Los Angeles",
+    "total_spend": 6823616,
+    "dem_pct": 16.3,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "LEGAL",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "vendor_id": "V0099",
+    "canonical_name": "Cramer-Krasselt",
+    "total_spend": 6558959,
+    "dem_pct": 5.3,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "PRINTING",
+    "city": "Phoenix",
+    "state": "AZ"
+  },
+  {
+    "vendor_id": "V0174",
+    "canonical_name": "Fabrizio Ward & Associates",
+    "total_spend": 6080623,
+    "dem_pct": 100.0,
+    "rep_pct": 18.9,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "CONSULTING",
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "vendor_id": "V0121",
+    "canonical_name": "WPA Intelligence",
+    "total_spend": 5973615,
+    "dem_pct": 100.0,
+    "rep_pct": 20.3,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "CONSULTING",
+    "city": "Detroit",
+    "state": "MI"
+  },
+  {
+    "vendor_id": "V0165",
+    "canonical_name": "Hargrove Engineers",
+    "total_spend": 5742893,
+    "dem_pct": 100.0,
+    "rep_pct": 23.2,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "EVENT_PRODUCTION",
+    "city": "Milwaukee",
+    "state": "WI"
+  },
+  {
+    "vendor_id": "V0256",
+    "canonical_name": "Deep Root Analytics",
+    "total_spend": 5599000,
+    "dem_pct": 11.8,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DATA_ANALYTICS",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  {
+    "vendor_id": "V0311",
+    "canonical_name": "HSP Direct",
+    "total_spend": 5382682,
+    "dem_pct": 6.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIRECT_MAIL",
+    "city": "Raleigh",
+    "state": "NC"
+  },
+  {
+    "vendor_id": "V0049",
+    "canonical_name": "Colonial Press International",
+    "total_spend": 5262221,
+    "dem_pct": 21.6,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "PRINTING",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "vendor_id": "V0284",
+    "canonical_name": "Chapman Cubine & Hussey",
+    "total_spend": 4949135,
+    "dem_pct": 12.1,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIRECT_MAIL",
+    "city": "Pittsburgh",
+    "state": "PA"
+  },
+  {
+    "vendor_id": "V0146",
+    "canonical_name": "i360 LLC",
+    "total_spend": 4857963,
+    "dem_pct": 17.9,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DATA_ANALYTICS",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  {
+    "vendor_id": "V0296",
+    "canonical_name": "Authentic Campaigns",
+    "total_spend": 4645661,
+    "dem_pct": 100.0,
+    "rep_pct": 12.7,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIGITAL",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "vendor_id": "V0275",
+    "canonical_name": "Catalist LLC",
+    "total_spend": 4589402,
+    "dem_pct": 8.4,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DATA_ANALYTICS",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "vendor_id": "V0206",
+    "canonical_name": "Benenson Strategy Group",
+    "total_spend": 4347867,
+    "dem_pct": 11.8,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "CONSULTING",
+    "city": "Washington DC",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V0004",
+    "canonical_name": "Optimus Consulting",
+    "total_spend": 4150909,
+    "dem_pct": 13.4,
+    "rep_pct": 100.0,
+    "cycles": [
+      2016,
+      2018,
+      2020,
+      2022,
+      2024
+    ],
+    "category": "DIRECT_MAIL",
+    "city": "Philadelphia",
+    "state": "PA"
+  }
+]

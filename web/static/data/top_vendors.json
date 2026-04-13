@@ -1,0 +1,742 @@
+[
+  {
+    "vendor_id": "V34568",
+    "canonical_name": "MEDIA BUYING & ANALYTICS LLC",
+    "total_spend": 783487795.35,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "ATLANTA",
+    "state": "GA"
+  },
+  {
+    "vendor_id": "V38510",
+    "canonical_name": "AMERICAN MADE MEDIA CONSULTANTS, LLC",
+    "total_spend": 517163129.18,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "ARLINGTON",
+    "state": "VA"
+  },
+  {
+    "vendor_id": "V04809",
+    "canonical_name": "BUYING TIME, LLC",
+    "total_spend": 511345812.49,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "WASHINGTON",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V02681",
+    "canonical_name": "ASSEMBLE",
+    "total_spend": 506878344.5,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "NEW YORK",
+    "state": "NY"
+  },
+  {
+    "vendor_id": "V08453",
+    "canonical_name": "GMMB",
+    "total_spend": 448983548.07,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "WASHINGTON",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V00565",
+    "canonical_name": "TARGETED VICTORY",
+    "total_spend": 346473473.61,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Fees & Processing",
+    "city": "ARLINGTON",
+    "state": "VA"
+  },
+  {
+    "vendor_id": "V19904",
+    "canonical_name": "GRASSROOTS MEDIA",
+    "total_spend": 326127768.66,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "BALA CYNWYD",
+    "state": "PA"
+  },
+  {
+    "vendor_id": "V06805",
+    "canonical_name": "STRATEGIC MEDIA SERVICES, INC.",
+    "total_spend": 319307702.91,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "ARLINGTON",
+    "state": "VA"
+  },
+  {
+    "vendor_id": "V07064",
+    "canonical_name": "SCREEN STRATEGIES MEDIA",
+    "total_spend": 280795036.1,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "FAIRFAX",
+    "state": "VA"
+  },
+  {
+    "vendor_id": "V03431",
+    "canonical_name": "AL MEDIA",
+    "total_spend": 253888226.59,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "CHICAGO",
+    "state": "IL"
+  },
+  {
+    "vendor_id": "V02418",
+    "canonical_name": "RWT PRODUCTION LLC",
+    "total_spend": 235948513.74,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Direct Mail",
+    "city": "ANNANDALE",
+    "state": "VA"
+  },
+  {
+    "vendor_id": "V02148",
+    "canonical_name": "BULLY PULPIT INTERACTIVE LLC",
+    "total_spend": 206555493.4,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "WASHINGTON",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V00009",
+    "canonical_name": "ACTBLUE TECHNICAL SERVICES",
+    "total_spend": 187067975.36,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Fees & Processing",
+    "city": "SOMERVILLE",
+    "state": "MA"
+  },
+  {
+    "vendor_id": "V118057",
+    "canonical_name": "GAMBIT STRATEGIES LLC",
+    "total_spend": 183280976.69,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "WASHINGTON",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V00210",
+    "canonical_name": "AMERICAN EXPRESS",
+    "total_spend": 175198200.06,
+    "dem_pct": 58.3,
+    "rep_pct": 41.7,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Fees & Processing",
+    "city": "NEWARK",
+    "state": "NJ"
+  },
+  {
+    "vendor_id": "V06811",
+    "canonical_name": "SMART MEDIA GROUP, LLC",
+    "total_spend": 174968269.4,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "ALEXANDRIA",
+    "state": "VA"
+  },
+  {
+    "vendor_id": "V18572",
+    "canonical_name": "LEFT HOOK",
+    "total_spend": 160985765.65,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "SANTA MONICA",
+    "state": "CA"
+  },
+  {
+    "vendor_id": "V01871",
+    "canonical_name": "GUSTO",
+    "total_spend": 146203117.24,
+    "dem_pct": 93.8,
+    "rep_pct": 6.2,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Payroll & Staff",
+    "city": "SAN FRANCISCO",
+    "state": "CA"
+  },
+  {
+    "vendor_id": "V00541",
+    "canonical_name": "ONMESSAGE INC.",
+    "total_spend": 134335226.44,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "ANNAPOLIS",
+    "state": "MD"
+  },
+  {
+    "vendor_id": "V05279",
+    "canonical_name": "RISING TIDE INTERACTIVE",
+    "total_spend": 126398444.26,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "WASHINGTON",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V00057",
+    "canonical_name": "FACEBOOK",
+    "total_spend": 124328182.02,
+    "dem_pct": 93.0,
+    "rep_pct": 7.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "MENLO PARK",
+    "state": "CA"
+  },
+  {
+    "vendor_id": "V212961",
+    "canonical_name": "DUPONT CIRCLE STRATEGIES LLC",
+    "total_spend": 122057895.33,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "WASHINGTON",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V00026",
+    "canonical_name": "GOOGLE",
+    "total_spend": 118385402.67,
+    "dem_pct": 97.1,
+    "rep_pct": 2.9,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Technology",
+    "city": "MOUNTAIN VIEW",
+    "state": "CA"
+  },
+  {
+    "vendor_id": "V01356",
+    "canonical_name": "PAYROLL DATA PROCESSING",
+    "total_spend": 106025217.07,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Payroll & Staff",
+    "city": "TAMPA",
+    "state": "FL"
+  },
+  {
+    "vendor_id": "V01562",
+    "canonical_name": "WINRED TECHNICAL SERVICES LLC",
+    "total_spend": 103195041.58,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Fees & Processing",
+    "city": "ARLINGTON",
+    "state": "VA"
+  },
+  {
+    "vendor_id": "V04410",
+    "canonical_name": "FLEXPOINT MEDIA INC",
+    "total_spend": 102796231.02,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "NEW ALBANY",
+    "state": "OH"
+  },
+  {
+    "vendor_id": "V02871",
+    "canonical_name": "GPS IMPACT",
+    "total_spend": 91896432.24,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "DES MOINES",
+    "state": "IA"
+  },
+  {
+    "vendor_id": "V30166",
+    "canonical_name": "SKDKNICKERBOCKER LLC",
+    "total_spend": 90522820.35,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "WASHINGTON",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V04490",
+    "canonical_name": "MEDIUM BUYING LLC",
+    "total_spend": 89828700.24,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "COLUMBUS",
+    "state": "OH"
+  },
+  {
+    "vendor_id": "V04989",
+    "canonical_name": "CANAL PARTNERS MEDIA",
+    "total_spend": 87063550.39,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "ATLANTA",
+    "state": "GA"
+  },
+  {
+    "vendor_id": "V58574",
+    "canonical_name": "DIGITAL CONSULTING GROUP LLC",
+    "total_spend": 84550032.42,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020
+    ],
+    "category": "Media & Advertising",
+    "city": "WILMINGTON",
+    "state": "DE"
+  },
+  {
+    "vendor_id": "V03431",
+    "canonical_name": "AL MEDIA",
+    "total_spend": 84359723.07,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "KANSAS CITY",
+    "state": "MO"
+  },
+  {
+    "vendor_id": "V05926",
+    "canonical_name": "FP1 STRATEGIES LLC",
+    "total_spend": 83901517.15,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "ARLINGTON",
+    "state": "VA"
+  },
+  {
+    "vendor_id": "V00210",
+    "canonical_name": "AMERICAN EXPRESS",
+    "total_spend": 77031404.94,
+    "dem_pct": 56.5,
+    "rep_pct": 43.5,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Fees & Processing",
+    "city": "NEW YORK",
+    "state": "NY"
+  },
+  {
+    "vendor_id": "V36918",
+    "canonical_name": "STRATEGIC MEDIA PLACEMENT INC.",
+    "total_spend": 76892891.38,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "DELAWARE",
+    "state": "OH"
+  },
+  {
+    "vendor_id": "V60346",
+    "canonical_name": "HAWKFISH LLC",
+    "total_spend": 75257666.84,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022
+    ],
+    "category": "Media & Advertising",
+    "city": "NEW YORK",
+    "state": "NY"
+  },
+  {
+    "vendor_id": "V00001",
+    "canonical_name": "ADP",
+    "total_spend": 73758472.43,
+    "dem_pct": 98.0,
+    "rep_pct": 2.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Payroll & Staff",
+    "city": "EL PASO",
+    "state": "TX"
+  },
+  {
+    "vendor_id": "V15446",
+    "canonical_name": "SCOTT HOWELL & COMPANY",
+    "total_spend": 70012806.87,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "DALLAS",
+    "state": "TX"
+  },
+  {
+    "vendor_id": "V00094",
+    "canonical_name": "PAYCHEX",
+    "total_spend": 68802318.22,
+    "dem_pct": 94.0,
+    "rep_pct": 6.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Payroll & Staff",
+    "city": "ROCHESTER",
+    "state": "NY"
+  },
+  {
+    "vendor_id": "V02446",
+    "canonical_name": "BLOOMBERG, MICHAEL R.",
+    "total_spend": 68776453.34,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022
+    ],
+    "category": "Travel",
+    "city": "NEW YORK",
+    "state": "NY"
+  },
+  {
+    "vendor_id": "V01060",
+    "canonical_name": "JDB MARKETING INC",
+    "total_spend": 68451775.99,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Direct Mail",
+    "city": "MOUNT PLEASANT",
+    "state": "SC"
+  },
+  {
+    "vendor_id": "V71233",
+    "canonical_name": "TARGET ENTERPRISES LLC",
+    "total_spend": 65604293.57,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "SHERMAN OAKS",
+    "state": "CA"
+  },
+  {
+    "vendor_id": "V00418",
+    "canonical_name": "SOUTHWEST PUBLISHING AND MAILING CORPORATION",
+    "total_spend": 63481425.44,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Direct Mail",
+    "city": "TOPEKA",
+    "state": "KS"
+  },
+  {
+    "vendor_id": "V04990",
+    "canonical_name": "AISLE 518 STRATEGIES, LLC",
+    "total_spend": 63307999.76,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "ARLINGTON",
+    "state": "VA"
+  },
+  {
+    "vendor_id": "V26600",
+    "canonical_name": "WAVELENGTH STRATEGY LLC",
+    "total_spend": 63044323.58,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "WASHINGTON",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V39191",
+    "canonical_name": "TAG LLC",
+    "total_spend": 62953349.51,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Consulting",
+    "city": "ALEXANDRIA",
+    "state": "VA"
+  },
+  {
+    "vendor_id": "V01802",
+    "canonical_name": "AUTHENTIC CAMPAIGNS",
+    "total_spend": 62033252.87,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Media & Advertising",
+    "city": "WASHINGTON",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V118488",
+    "canonical_name": "MISSIONWIRED",
+    "total_spend": 62020910.39,
+    "dem_pct": 100.0,
+    "rep_pct": 0.0,
+    "cycles": [
+      2022,
+      2024
+    ],
+    "category": "Direct Mail",
+    "city": "WASHINGTON",
+    "state": "DC"
+  },
+  {
+    "vendor_id": "V00590",
+    "canonical_name": "TATANGO",
+    "total_spend": 60888356.7,
+    "dem_pct": 59.1,
+    "rep_pct": 40.9,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Other",
+    "city": "SEATTLE",
+    "state": "WA"
+  },
+  {
+    "vendor_id": "V03658",
+    "canonical_name": "COMMUNICATIONS CORPORATION OF AMERICA",
+    "total_spend": 60586484.76,
+    "dem_pct": 0.0,
+    "rep_pct": 100.0,
+    "cycles": [
+      2020,
+      2022,
+      2024
+    ],
+    "category": "Direct Mail",
+    "city": "ELKWOOD",
+    "state": "VA"
+  }
+]
