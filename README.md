@@ -6,7 +6,7 @@ Everyone knows where campaign money comes from. This project maps what it actual
 
 This project and its code are open sourced and free for others to use. But if you do, please cite me. I am happy to collaborate as well!
 
-** https://torythetortle.github.io/political-cash-flows/** 
+https://torythetortle.github.io/political-cash-flows/
 
 
 ## What this shows
