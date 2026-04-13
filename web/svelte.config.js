@@ -11,6 +11,9 @@ const config = {
 			assets: 'build',
 			fallback: undefined
 		}),
+		paths: {
+			base: process.env.BASE_PATH || ''
+		},
 		prerender: {
 			handleHttpError: 'warn',
 			handleMissingId: 'warn'
