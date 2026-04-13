@@ -4,7 +4,7 @@
 
 <footer>
 	<div class="footer-inner">
-		<span class="credit">A data investigation by <strong>Tory</strong></span>
+		<span class="credit">By <strong>Tory Lysik</strong></span>
 		<span class="sep">&middot;</span>
 		<span class="source">Data: FEC 2024 cycle</span>
 		<span class="sep">&middot;</span>

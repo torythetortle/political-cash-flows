@@ -278,6 +278,38 @@ python -m pipeline.src.run_pipeline</code></pre>
 		</p>
 	</section>
 
+	<section>
+		<h2>How to Cite</h2>
+		<p>
+			If you reference this project in your own reporting, research, or analysis,
+			please cite it as:
+		</p>
+		<div class="cite-box">
+			<p class="cite-text">
+				Lysik, Tory. "The Last Mile of Political Money." 2026.
+				<span class="mono">torythetortle.github.io/political-cash-flows</span>
+			</p>
+		</div>
+		<p>
+			BibTeX:
+		</p>
+		<pre><code>@misc{'{'} lysik2026lastmile,
+  author = {'{'} Lysik, Tory {'}'},
+  title = {'{'} The Last Mile of Political Money {'}'},
+  year = {'{'} 2026 {'}'},
+  url = {'{'} https://torythetortle.github.io/political-cash-flows {'}'}
+{'}'}</code></pre>
+	</section>
+
+	<section>
+		<h2>License</h2>
+		<p>
+			The code for this project is released under the
+			<a href="https://github.com/torythetortle/political-cash-flows/blob/main/LICENSE">MIT License</a>.
+			The underlying data is public, sourced from the Federal Election Commission.
+		</p>
+	</section>
+
 	<section class="contact-section">
 		<h2>Get the Data</h2>
 		<p>
@@ -458,6 +490,20 @@ python -m pipeline.src.run_pipeline</code></pre>
 	.tech-value {
 		font-size: var(--font-size-sm);
 		color: var(--color-text);
+	}
+
+	.cite-box {
+		padding: var(--space-lg);
+		background: var(--color-surface);
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-md);
+		margin: var(--space-md) 0;
+	}
+
+	.cite-text {
+		font-size: var(--font-size-sm);
+		color: var(--color-text);
+		line-height: var(--line-height-relaxed);
 	}
 
 	.contact-section {
