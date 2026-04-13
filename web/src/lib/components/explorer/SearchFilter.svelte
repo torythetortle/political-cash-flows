@@ -249,4 +249,24 @@
 		color: var(--color-text);
 		border-color: var(--color-text-secondary);
 	}
+
+	@media (max-width: 600px) {
+		.filter-row {
+			flex-direction: column;
+			align-items: stretch;
+			gap: var(--space-sm);
+		}
+
+		.search-group {
+			min-width: 0;
+		}
+
+		select, input[type="number"] {
+			width: 100%;
+		}
+
+		.filter-meta {
+			justify-content: space-between;
+		}
+	}
 </style>

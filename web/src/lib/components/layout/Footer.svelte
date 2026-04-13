@@ -44,4 +44,15 @@
 	a:hover {
 		color: var(--color-text);
 	}
+
+	@media (max-width: 480px) {
+		footer {
+			padding: var(--space-sm) var(--space-md);
+		}
+
+		.footer-inner {
+			font-size: 10px;
+			gap: var(--space-xs);
+		}
+	}
 </style>

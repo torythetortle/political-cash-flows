@@ -205,4 +205,18 @@
 		z-index: 10;
 		font-family: var(--font-mono);
 	}
+
+	@media (max-width: 600px) {
+		svg {
+			min-width: 350px;
+		}
+
+		.vendor-name {
+			font-size: 9px;
+		}
+
+		.cycle-header {
+			font-size: 9px;
+		}
+	}
 </style>

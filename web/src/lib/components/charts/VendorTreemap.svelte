@@ -196,4 +196,11 @@
 		font-size: var(--font-size-xs);
 		color: var(--color-muted);
 	}
+
+	@media (max-width: 600px) {
+		.treemap-tooltip {
+			min-width: 140px;
+			max-width: calc(100vw - 40px);
+		}
+	}
 </style>

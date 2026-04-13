@@ -259,4 +259,17 @@
 		font-family: var(--font-mono);
 		font-size: var(--font-size-sm);
 	}
+
+	@media (max-width: 600px) {
+		.tooltip {
+			min-width: 110px;
+			padding: 8px 10px;
+			font-size: 10px;
+			max-width: calc(100vw - 40px);
+		}
+
+		.state-label {
+			font-size: 8px;
+		}
+	}
 </style>

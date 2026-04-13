@@ -249,4 +249,26 @@
 		font-size: 10px;
 		color: var(--color-muted);
 	}
+
+	@media (max-width: 768px) {
+		.col-category, .col-cycles, .col-city {
+			display: none;
+		}
+
+		.col-name { max-width: 140px; }
+		.col-spend { width: 70px; }
+
+		th, td {
+			padding: 6px 6px;
+			font-size: 11px;
+		}
+	}
+
+	@media (max-width: 480px) {
+		.col-state {
+			display: none;
+		}
+
+		.col-name { max-width: 120px; }
+	}
 </style>

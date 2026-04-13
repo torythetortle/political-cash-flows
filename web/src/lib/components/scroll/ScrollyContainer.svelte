@@ -72,4 +72,16 @@
 			padding-bottom: 40vh;
 		}
 	}
+
+	@media (max-width: 480px) {
+		.scrolly-graphic {
+			height: 45vh;
+		}
+
+		.scrolly-steps {
+			padding: var(--space-md);
+			padding-top: var(--space-lg);
+			padding-bottom: 30vh;
+		}
+	}
 </style>
