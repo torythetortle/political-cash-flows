@@ -12,13 +12,11 @@ __pycache__/
 pipeline/.venv/
 *.egg-info/
 
-# Data pipeline artifacts (too large for git)
+# Data pipeline artifacts
 data/raw/
 data/processed/
+data/exports/
 *.parquet
-
-# Keep exports committed (final artifacts for frontend)
-# !data/exports/
 
 # Environment
 .env
